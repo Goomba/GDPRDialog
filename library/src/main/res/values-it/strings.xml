@@ -49,5 +49,6 @@
     <string name="gdpr_type_cloud_database">un database remoto</string>
     <string name="gdpr_type_crash">segnalazioni sui crash</string>
     <string name="gdpr_type_analytics">statistiche sull\'utilizzo</string>
+    <string name="gdpr_type_notifications">inviare notifiche</string>
 
 </resources>
